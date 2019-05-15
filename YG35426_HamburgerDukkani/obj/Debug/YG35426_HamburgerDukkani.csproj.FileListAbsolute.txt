@@ -1,0 +1,19 @@
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\bin\Debug\YG35426_HamburgerDukkani.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\bin\Debug\YG35426_HamburgerDukkani.exe
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\bin\Debug\YG35426_HamburgerDukkani.pdb
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.exe
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.pdb
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\bin\Debug\YG35426_HamburgerDukkani.exe.config
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\bin\Debug\YG35426_HamburgerDukkani.exe
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\bin\Debug\YG35426_HamburgerDukkani.pdb
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.csprojResolveAssemblyReference.cache
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.Form1.resources
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.Properties.Resources.resources
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.csproj.GenerateResource.Cache
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.csproj.CoreCompileInputs.cache
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.exe
+D:\Furkan Yedek\YG35426\YG35426\OOP\YG35426_HamburgerDukkani\YG35426_HamburgerDukkani\obj\Debug\YG35426_HamburgerDukkani.pdb
